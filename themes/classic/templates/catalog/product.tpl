@@ -90,7 +90,7 @@
                 {include file="catalog/_partials/product-customization.tpl" customizations=$product.customizations}
               {/block}
             {/if}
-
+             
             <div class="product-actions js-product-actions">
               {block name='product_buy'}
                 <form action="{$urls.pages.cart}" method="post" id="add-to-cart-or-refresh">
@@ -127,9 +127,6 @@
                     {include file='catalog/_partials/product-add-to-cart.tpl'}
                   {/block}
 
-                  {block name='MyFav'}
-                    {hook h='displayProductButtons'}
-                  {/block}
 
                   {block name='product_additional_info'}
                     {include file='catalog/_partials/product-additional-info.tpl'}
@@ -139,6 +136,7 @@
                   {block name='product_refresh'}{/block}
                 </form>
               {/block}
+                 
 
             </div>
 
@@ -232,7 +230,11 @@
         </div>
       </div>
     </div>
-
+    <div>
+      {block name='MyFav'}
+        {hook h='displayProductButtons'}
+      {/block}
+    </div>
     {block name='product_accessories'}
       {if $accessories}
         <section class="product-accessories clearfix">

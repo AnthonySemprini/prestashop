@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-03-15 15:30:32
+/* Smarty version 4.3.4, created on 2024-03-15 16:12:35
   from 'module:ps_viewedproductviewstemplateshookps_viewedproduct.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_65f45b8865b768_16874859',
+  'unifunc' => 'content_65f465636ab186_93690926',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -42,13 +42,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_65f45b8865b768_16874859 (Smarty_Internal_Template $_smarty_tpl) {
+function content_65f465636ab186_93690926 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'renderLogo' => 
   array (
     'compiled_filepath' => '/Applications/MAMP/htdocs/prestashop/var/cache/dev/smarty/compile/classiclayouts_layout_full_width_tpl/3b/0e/e0/3b0ee037a6b70c7668088416cacbb5343e24de16_2.file.helpers.tpl.php',
     'uid' => '3b0ee037a6b70c7668088416cacbb5343e24de16',
-    'call_name' => 'smarty_template_function_renderLogo_14800379665f45b882c7555_15892560',
+    'call_name' => 'smarty_template_function_renderLogo_21976796565f465633aa363_41354806',
   ),
 ));
 ?><!-- begin /Applications/MAMP/htdocs/prestashop/themes/classic/modules/ps_viewedproduct/views/templates/hook/ps_viewedproduct.tpl --><section class="featured-products clearfix mt-3">

@@ -5,3 +5,6 @@
 [2024-03-15 13:49:12] ps_accounts.ERROR: Warning: Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/prestashop/vendor/symfony/symfony/src/Symfony/Component/ErrorHandler/Debug.php:34) [] []
 [2024-03-15 14:03:42] ps_accounts.ERROR: Warning: Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/prestashop/vendor/symfony/symfony/src/Symfony/Component/ErrorHandler/Debug.php:34) [] []
 [2024-03-15 15:20:11] ps_accounts.ERROR: Warning: Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/prestashop/vendor/symfony/symfony/src/Symfony/Component/ErrorHandler/Debug.php:34) [] []
+[2024-03-15 15:35:56] ps_accounts.ERROR: Warning: Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/prestashop/vendor/symfony/symfony/src/Symfony/Component/ErrorHandler/Debug.php:34) [] []
+[2024-03-15 15:36:35] ps_accounts.INFO: Ps_accounts::resetCircuitBreaker [] []
+[2024-03-15 15:37:46] ps_accounts.INFO: Ps_accounts::resetCircuitBreaker [] []

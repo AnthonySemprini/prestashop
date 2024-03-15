@@ -16,6 +16,6 @@ if (!\class_exists(appAppKernelDevDebugContainer::class, false)) {
 
 return new \ContainerWVpxmCu\appAppKernelDevDebugContainer([
     'container.build_hash' => 'WVpxmCu',
-    'container.build_id' => '764314a1',
-    'container.build_time' => 1710513013,
+    'container.build_id' => '9dff3ffd',
+    'container.build_time' => 1710515540,
 ], __DIR__.\DIRECTORY_SEPARATOR.'ContainerWVpxmCu');
