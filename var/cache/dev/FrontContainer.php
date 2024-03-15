@@ -4461,6 +4461,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 76 => 'statsstock',
                 77 => 'ps_facetedsearch',
                 78 => 'autoupgrade',
+                79 => 'MyFav',
             ],
             'ps_cache_dir' => '/Applications/MAMP/htdocs/prestashop/var/cache/dev/',
             'mail_themes_uri' => '/mails/themes',

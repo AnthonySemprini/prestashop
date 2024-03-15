@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2024-03-15 11:59:04
+/* Smarty version 4.3.4, created on 2024-03-15 15:30:32
   from '/Applications/MAMP/htdocs/prestashop/themes/classic/templates/_partials/password-policy-template.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_65f429f879b1c0_68186077',
+  'unifunc' => 'content_65f45b8872df88_89253978',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_65f429f879b1c0_68186077 (Smarty_Internal_Template $_smarty_tpl) {
+function content_65f45b8872df88_89253978 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <template id="password-feedback">

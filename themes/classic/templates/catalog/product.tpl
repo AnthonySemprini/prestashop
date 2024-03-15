@@ -119,8 +119,16 @@
                     {include file='catalog/_partials/product-discounts.tpl'}
                   {/block}
 
+                 {block name='product_discounts'}
+                    {include file='catalog/_partials/product-discounts.tpl'}
+                  {/block}
+
                   {block name='product_add_to_cart'}
                     {include file='catalog/_partials/product-add-to-cart.tpl'}
+                  {/block}
+
+                  {block name='MyFav'}
+                    {hook h='displayProductButtons'}
                   {/block}
 
                   {block name='product_additional_info'}
